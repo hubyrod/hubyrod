@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hubyrod
 - 👀 I’m interested in programming languages and... software. 
-- 📫 How to reach me: here, or twitter: https://twitter.com/monsieurv
+- 📫 How to reach me: here, or https://bsky.app/profile/monsieurv.bsky.social
 
 <!---
 hubyrod/hubyrod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
